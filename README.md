@@ -17,9 +17,9 @@ KeyTalk is a real-time chat application developed using the MERN stack, allowing
 - **Responsive Web Design:** Support both RWD and different themes with light and dark mode.
 
 ## Deployment
-- **Database:** MongoDB Atlas
+- **Database:** MongoDB Compass
 - **Backend:** Render
-- **Frontend:** Netlify
+- **Frontend:** Vercel
 
 ## Live Demo
 Visit the live application at [KeyTalk Live Demo](https://key-talk.vercel.app).

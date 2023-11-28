@@ -1,22 +1,27 @@
-# Key-Talk- Real-Time Chat Application
-**Overview**
+# KeyTalk - Real-Time Chat Application
+
+## Overview
 KeyTalk is a real-time chat application developed using the MERN stack, allowing users to engage in private conversations and create chat rooms for targeted message broadcasting.
-**Technologies**
-*database - MongoDB
-*backend - Express.js & Node.js
-*frontend - React.js (with styled-components)
-*Real-time messages - Socket.io
-**Feature**
-*JWT Authentication
-*One-on-one Private Chat where users can chat with others privately.
-*Create a room and start a Room Chat for users who want to broadcast messages to a specific group of users.
-*Real-time updates to conversation messages, user online/ offline, read/ unread status, user join/leave room to notify, etc.
-*Support both RWD and different themes with light and dark mode
-**Deploy**
-*database: MongoDB Atlas
-*backend: Render
-*frontend: Netlify
-**Live Demo**
-[key-talk.vercel.app](key-talk.vercel.app)
+
+## Technologies
+- **Database:** MongoDB
+- **Backend:** Express.js & Node.js
+- **Frontend:** React.js (with styled-components)
+- **Real-time Messages:** Socket.io
+
+## Features
+- **JWT Authentication**
+- **One-on-One Private Chat:** Users can engage in private conversations.
+- **Room Chat:** Create a room and start a chat for users who want to broadcast messages to a specific group.
+- **Real-Time Updates:** Keep users informed with real-time updates to conversation messages, user online/offline status, read/unread status, user join/leave room notifications, etc.
+- **Responsive Web Design:** Support both RWD and different themes with light and dark mode.
+
+## Deployment
+- **Database:** MongoDB Atlas
+- **Backend:** Render
+- **Frontend:** Netlify
+
+## Live Demo
+Visit the live application at [KeyTalk Live Demo](https://key-talk.vercel.app).
 
 
